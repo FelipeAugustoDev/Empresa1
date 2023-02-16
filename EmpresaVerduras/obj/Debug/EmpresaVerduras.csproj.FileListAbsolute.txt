@@ -1,0 +1,11 @@
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\bin\Debug\EmpresaVerduras.exe.config
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\bin\Debug\EmpresaVerduras.exe
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\bin\Debug\EmpresaVerduras.pdb
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.csproj.AssemblyReference.cache
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.Form1.resources
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.Properties.Resources.resources
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.csproj.GenerateResource.cache
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.csproj.CoreCompileInputs.cache
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.exe
+C:\Users\FelipeDev\source\repos\EmpresaVerduras\obj\Debug\EmpresaVerduras.pdb
